@@ -1,0 +1,26 @@
+______ _   _______  ______      _     ______ _             
+|  _  \ \ | |  _  \ | ___ \    | |    | ___ \ |            
+| | | |  \| | | | | | |_/ /___ | | ___| |_/ / | __ _ _   _ 
+| | | | . ` | | | | |    // _ \| |/ _ \  __/| |/ _` | | | |
+| |/ /| |\  | |/ /  | |\ \ (_) | |  __/ |   | | (_| | |_| |
+|___/ \_| \_/___/   \_| \_\___/|_|\___\_|   |_|\__,_|\__, |
+                                                      __/ |
+                                                     |___/ 
+______ _           ______      _ _           _             
+|  _  (_)          | ___ \    | | |         | |            
+| | | |_  ___ ___  | |_/ /___ | | | ___ _ __| |            
+| | | | |/ __/ _ \ |    // _ \| | |/ _ \ '__| |            
+| |/ /| | (_|  __/ | |\ \ (_) | | |  __/ |  |_|            
+|___/ |_|\___\___| \_| \_\___/|_|_|\___|_|  (_) 
+
+This is a working prototype. I have further plans both in features and in quality of life updates.
+
+1.2 - Initial launch
+
+1.3 - Added stories combined with the rolls to add the RP aspect of the program. Future updates will have more stories.
+
+
+special thanks to:
+Tech Elevator
+John B
+August C
